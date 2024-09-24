@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+whisper
+Pillow
+clip
